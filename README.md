@@ -1,3 +1,5 @@
+BOAS VINDAS AO MEU PERFIL:
+
 Meu nome é Maria Fernanda Gomes
 * Estou estudando no Alura
 * Estou me desenvolvendo na linguagem javaScript
